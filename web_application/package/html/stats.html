@@ -1,0 +1,26 @@
+<html>
+<body>
+
+<p> The session is complete! The number of experts (M) is {M}. The total number of rounds (n) was {n}. The expected regret is gauranteed to be no more than, {regret} stars, so on average, the expected "regret per round" was no more than {average} stars. The final weights for the experts are:</p>
+
+<p>
+{experts}
+</p>
+
+<br>
+
+<div>
+<p>
+To start a new session, please submit this form:
+</p>
+ <form>
+  <label for="M">Number of experts (M):</label>
+  <input type="number" id="M" name="M" min="2" max="12" step="1" value="3">
+  <label for="n">Number of rounds (M):</label>
+  <input type="number" id="n" name="n" min="1" max="1000" step="1" value="30">
+  <input type="submit" value="Start new session">
+</form> 
+</div>
+
+</body>
+</html>

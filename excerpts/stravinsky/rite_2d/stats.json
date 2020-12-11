@@ -1,0 +1,1 @@
+{"0": {"cardinality": 8, "pitches": [0, 2, 3, 4, 6, 7, 9, 10]}, "10": {"cardinality": 8, "pitches": [0, 2, 3, 4, 6, 7, 9, 10]}, "20": {"cardinality": 7, "pitches": [0, 2, 3, 4, 7, 9, 10]}, "30": {"cardinality": 8, "pitches": [0, 2, 3, 4, 6, 7, 9, 10]}, "40": {"cardinality": 7, "pitches": [0, 2, 3, 4, 7, 9, 10]}, "50": {"cardinality": 8, "pitches": [0, 2, 3, 4, 6, 7, 9, 10]}}

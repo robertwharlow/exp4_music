@@ -1,0 +1,10 @@
+python analyze_pitch_classes_and_create_excerpts_directory.py
+python create_midi_to_audio_script_and_copy_midi_files.py
+chmod +x record_midi_as_mp3s.sh
+./record_midi_as_mp3s.sh
+python create_script_to_splice_audio_into_snippets.py
+chmod +x splice_audio_into_snippets.sh
+./splice_audio_into_snippets.sh
+python compile_expert_advice.py
+python make_data_file_for_web_application.py
+

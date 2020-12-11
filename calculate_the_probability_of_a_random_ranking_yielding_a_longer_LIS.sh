@@ -1,0 +1,4 @@
+python calculate_the_probability_of_a_random_ranking_yielding_a_longer_LIS.py --input raw_data/session_1.json
+python calculate_the_probability_of_a_random_ranking_yielding_a_longer_LIS.py --input raw_data/session_2.json
+python calculate_the_probability_of_a_random_ranking_yielding_a_longer_LIS.py --input raw_data/session_3.json
+
